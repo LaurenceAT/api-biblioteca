@@ -4,7 +4,8 @@ API REST del Laboratorio 09 (Desarrollo de Aplicativos Móviles). Centraliza el 
 biblioteca, aplica las reglas de préstamo y responde siempre en JSON. La consume la app Android
 **BiblioCampus** (Kotlin + Jetpack Compose + Retrofit, patrón MVVM).
 
-**URL pública:** `https://<tu-servicio>.onrender.com` ← reemplazar tras desplegar en Render
+**URL pública:** https://api-biblioteca-gd7i.onrender.com
+(catálogo: https://api-biblioteca-gd7i.onrender.com/api/v1/libros)
 
 ## Ejecutar en local
 
